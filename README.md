@@ -8,3 +8,5 @@
 1. JS
 1. inne
     - Git
+    - SASS
+    - makiety strony
